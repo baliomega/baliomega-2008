@@ -38,10 +38,6 @@ This is a static website. Simply open `index.html` in a web browser to view the 
 - Mock-up designs and concept work
 - Live website implementations
 
-## Contact
-
-Original portfolio contact: bali@baliomega.com
-
 ---
 
 *Copyright © 2008 Baliomega. This is a preserved archive of the original portfolio website.*
